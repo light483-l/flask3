@@ -1,4 +1,3 @@
-/* Стили для промо-страницы */
 .promo-title {
     color: red;
     text-align: center;
@@ -22,7 +21,6 @@
     font-size: 1.2rem;
 }
 
-/* Общие стили для всех цветных блоков */
 .choice-item {
     padding: 15px;
     margin-bottom: 10px;
@@ -31,7 +29,6 @@
     color: black;
 }
 
-/* Цвета фонов (можно использовать как с promo-item, так и с choice-item) */
 .item-1 { background-color: rgba(0, 0, 0, 0.1); }
 .item-2 { background-color: rgba(0, 128, 0, 0.3); }
 .item-3 { background-color: rgba(0, 0, 0, 0.3); }
